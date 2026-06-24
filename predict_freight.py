@@ -32,6 +32,7 @@ def predict_freight_cost(input_data):
 
 
 if __name__ == "__main__":
+    pass
 
     # Example inference run (local testing)
     sample_data = {
